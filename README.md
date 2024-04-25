@@ -1,5 +1,4 @@
-# APUSH-Review-md
-APUSH Review by chapters
+###Unit 7
 1. **Imperialism (Jingoism)**: Expansion of national borders and influence through military force and diplomacy, often driven by nationalist fervor and economic motives.
 2. **Alfred T. Mahan/Influence of Sea Power**: Mahan argued that national greatness and prosperity came from maritime power. His ideas influenced naval strategies and the expansion of the U.S. navy.
 3. **"White Man's Burden"**: A poem by Rudyard Kipling that urged the U.S. to take up the perceived duty of civilizing non-white peoples, used to justify imperialism.
@@ -86,11 +85,7 @@ APUSH Review by chapters
 80. **Fundamentalism and the Scopes Trial**: The 1925 trial of John T. Scopes, a Tennessee teacher accused of violating state law by teaching evolution, highlighted the conflict between modernist and fundamentalist values in American society.
 81. **Effects of Prohibition (18th Amendment)**: Led to the rise of bootlegging, speakeasies, and organized crime as illegal operations emerged to satisfy the demand for alcohol.
 
-
-
-
-
-### 1920s Cultural and Economic Shifts
+## 1920s Cultural and Economic Shifts
 1. **Organized Crime and Al Capone**: The Prohibition era saw the rise of organized crime as gangs controlled illegal liquor sales, gambling, and prostitution. Al Capone was one of the most notorious figures, leading the Chicago Outfit.
 2. **Rural vs. Urban Jazz Age**: The 1920s saw a cultural split; urban areas embraced the modernity, excitement, and freedom of jazz music, while rural areas often held onto traditional values.
 3. **The New Morality and the Flapper**: Represented a generational shift in the post-WWI period, with young women (flappers) adopting new fashions and attitudes that challenged traditional norms and behaviors.
@@ -111,7 +106,7 @@ APUSH Review by chapters
 18. **Henry Ford and the Automobile**: Revolutionized manufacturing with the moving assembly line, making cars affordable for the average American, and profoundly affecting the U.S. economy and culture.
 19. **"Return to Normalcy"**: A campaign slogan of President Warren G. Harding, promising a return to the way of life before WWI, focusing on peace and domestic issues.
 
-### Economic Policies and Prelude to the Great Depression
+## Economic Policies and Prelude to the Great Depression
 20. **Andrew Mellon's Economic Policy (Trickle Down)**: As Secretary of the Treasury under several presidents, Mellon advocated for reducing government spending and taxes on the wealthy, believing that wealth would "trickle down" to the lower classes.
 21. **Hawley-Smoot Tariff (1930)**: One of the highest tariffs in U.S. history, intended to protect American farmers and manufacturers by increasing import duties. It led to a significant decrease in international trade and exacerbated the Great Depression.
 22. **Causes of the Great Depression**: Included a stock market crash in 1929, bank failures, reduction in purchasing across the board, and a lack of confidence in the economy. Factors like overproduction, unequal wealth distribution, and speculative lending practices also played critical roles.
@@ -121,7 +116,7 @@ APUSH Review by chapters
 26. **Unequal Distribution of Wealth**: Significant economic inequality meant that wealth was concentrated in the hands of a few, reducing overall consumer demand and contributing to the economic downturn.
 27. **Hoover's Belief in the Economy (Rugged Individualism)**: President Hoover believed in minimal government intervention, thinking the economy would self-correct and advocating for individual self-reliance, which delayed more effective government intervention.
 
-### New Deal Programs and Recovery Efforts
+## New Deal Programs and Recovery Efforts
 28. **Reconstruction Finance Corporation (RFC)**: Created in 1932 to provide financial support to banks, insurance companies, and other institutions to help them prevent bankruptcy.
 29. **Hoover Dam**: Originally known as the Boulder Dam, this project was a massive public works effort begun during the Hoover administration to control flooding, provide irrigation, and generate electricity.
 30. **Bonus March (1932)**: A protest by World War I veterans in Washington, D.C., demanding early payment of a promised bonus, which was forcibly dispersed, hurting Hoover's reputation.
@@ -140,7 +135,7 @@ APUSH Review by chapters
 43. **Schecter vs. US (1935)**: Supreme Court decision that declared the NRA unconstitutional, stating Congress had delegated legislative power to the President.
 44. **Tennessee Valley Authority (TVA)**: Aimed to modernize the region with dams, electricity, and flood control projects.
 
-### New Deal Continued and Social Movements
+## New Deal Continued and Social Movements
 45. **Indian Reorganization Act**: A 1934 law that aimed to reverse assimilation policies, restore Indian management of lands, and strengthen tribal governments.
 46. **Huey P. Long/Share-the-Wealth Program**: The populist senator from Louisiana proposed a radical redistribution of wealth program during the 1930s, advocating for a cap on personal fortune and guaranteed minimum income for all Americans.
 47. **Francis Townsend/Old Age Pensions**: Townsend proposed federal pensions for the elderly, which helped lay the groundwork for later Social Security legislation.
@@ -153,7 +148,7 @@ APUSH Review by chapters
 54. **1937 Recession ("Double Dip")**: A downturn that occurred during the New Deal, leading critics to question the effectiveness of FDR's policies.
 55. **Keynesian Economics**: Influential during the New Deal, this theory advocated increased government expenditures and lower taxes to stimulate demand and pull the global economy out of the depression.
 
-### International Affairs and the Road to World War II
+## International Affairs and the Road to World War II
 56. **Washington Naval Conference**: A 1921-22 military conference called by the U.S. to limit naval arms race and ensure a balance of power in the Pacific.
 57. **Kellogg-Briand Pact (1928)**: An agreement in which signatory states promised not to use war to resolve disputes or conflicts.
 58. **Good Neighbor Policy**: Introduced by FDR, this policy sought to improve relations with Latin America, emphasizing non-intervention and non-interference.
@@ -170,7 +165,7 @@ APUSH Review by chapters
 
 Continuing from where we left off, let's explore the involvement of the United States in World War II and the significant events and transformations that occurred during and after the war:
 
-### U.S. Involvement in World War II
+## U.S. Involvement in World War II
 69. **Pearl Harbor (December 7, 1941)**: A surprise military strike by the Japanese Navy against the United States naval base at Pearl Harbor, Hawaii, which led to the U.S. entering World War II.
 70. **War Production Board**: Established to coordinate the production of war materials and supplies, it successfully converted civilian manufacturing capabilities into wartime production.
 71. **War Bonds and Other Ways of Financing the War**: The U.S. government financed the war effort through the sale of war bonds to the public and other financial measures, encouraging a sense of participation and investment among American citizens.
@@ -187,7 +182,7 @@ Continuing from where we left off, let's explore the involvement of the United S
 82. **Hiroshima and Nagasaki (August 1945)**: The U.S. dropped atomic bombs on these Japanese cities, leading to Japan's unconditional surrender and the end of World War II.
 
 
-
+###Unit 8
 1. **Baby Boom**: Post-WWII period marked by a significant increase in birth rates in the United States, lasting from 1946 to 1964.
 2. **Post WWII Consumerism**: A period of economic prosperity and high consumer spending following World War II, characterized by the widespread purchase of homes, cars, and appliances.
 3. **Job Corps**: Established as part of the Economic Opportunity Act of 1964 to help young people, ages 16-24, acquire the skills needed for employment.
@@ -230,6 +225,143 @@ Continuing from where we left off, let's explore the involvement of the United S
 39. **Dixiecrat Party/Strom Thurmond (1948)**: A segregationist political party in the South, formed in 1948 as a breakaway faction of the Democratic Party, led by Strom Thurmond.
 40. **Martin Luther King Jr. / Southern Christian Leadership Conference (SCLC)**: MLK Jr. led the SCLC, which played a major role in the American civil rights movement, promoting nonviolent protest to achieve civil rights reform.
 
+41. **Korean War (1950-53)**: A conflict between North and South Korea, in which the United Nations, led by the United States, helped South Korea and China assisted North Korea. The war ended in an armistice, leaving the Korean peninsula divided along the 38th parallel.
+
+42. **The New Frontier (JFK)**: President John F. Kennedy's domestic program which aimed at advancing civil rights, education, and space exploration, among other goals, to achieve progress and prosperity.
+
+43. **LBJ and Vietnam**: Under President Lyndon B. Johnson, the U.S. escalated its military involvement in Vietnam, aiming to prevent the spread of communism but leading to widespread controversy and protest back home.
+
+44. **The effect of "losing China"**: Refers to the U.S. foreign policy view after the Communist Party, led by Mao Zedong, took control of China in 1949, significantly impacting U.S. foreign relations and domestic paranoia about the spread of communism.
+
+45. **Warren Court**: Refers to the period when Earl Warren served as Chief Justice of the U.S. Supreme Court, noted for its judicial activism in areas of civil rights, civil liberties, and the rights of the accused.
+
+46. **Tonkin Gulf Resolution (1964)**: Passed by Congress after alleged attacks on U.S. naval vessels, it granted President Johnson the authority to assist any Southeast Asian country whose government was considered to be jeopardized by communist aggression.
+
+47. **Pusan and Inchon**: Key battles during the Korean War. The Pusan Perimeter was where UN troops held out against North Korean forces until reinforcements arrived, and the Battle of Inchon involved a successful amphibious invasion led by General MacArthur.
+
+48. **Gideon v. Wainwright (1963)**: A landmark Supreme Court case that ruled the states are required under the Sixth Amendment to provide counsel in criminal cases for defendants unable to afford their own attorneys.
+
+49. **Operation Rolling Thunder**: A prolonged aerial bombardment campaign conducted by the U.S. Air Force, Navy, and Marine Corps against North Vietnam from 1965 to 1968.
+
+50. **HUAC and McCarthyism**: The House Un-American Activities Committee (HUAC) was an investigative committee which along with Senator Joseph McCarthy, was known for questioning Americans about their alleged communist sympathies, leading to a widespread culture of fear and suspicion.
+
+51. **Escobedo v. Illinois (1964)**: Supreme Court decision that held criminal suspects have a right to counsel during police interrogations under the Sixth Amendment.
+
+52. **"Domino theory"**: A Cold War policy that suggested a communist government in one nation would quickly lead to communist takeovers in neighboring states, each falling like a domino, driving U.S. geopolitical strategy in Southeast Asia.
+
+53. **Alger Hiss and Whitaker Chambers**: Involved in a famous espionage case during the early Cold War. Chambers, a former Communist Party member, accused Hiss, a high-ranking U.S. State Department official, of being a Soviet spy, which Hiss vehemently denied.
+
+54. **Miranda v. Arizona (1966)**: A Supreme Court ruling that led to practice requiring police to inform suspects of their rights to silence and legal counsel upon arrest.
+
+55. **Role of television - "living room war"**: The Vietnam War was the first war that was extensively broadcast on television in the United States, which profoundly influenced public opinion and sentiment about the war.
+
+56. **The Rosenbergs**: Julius and Ethel Rosenberg were American citizens who were convicted and executed for conspiracy to commit espionage, relating to passing information about the atomic bomb to the Soviet Union.
+
+57. **Greensboro sit-in (1960)**: A form of nonviolent protest against segregated eating facilities at a Woolworth's store in North Carolina, marking a significant and symbolic act in the Civil Rights Movement.
+
+58. **Tet Offensive (1968)**: A massive, coordinated Communist assault on a large number of South Vietnamese urban centers during the Vietnam War, it was a crucial turning point in American public opinion towards the war.
+
+59. **Smith and McCarran Acts**: Legislation aimed at controlling communist activity in the U.S.; the Smith Act (1940) set criminal penalties for advocating the overthrow of the U.S. government, and the McCarran Act (1950) required communist organizations to register with the U.S. Attorney General.
+
+60. **SNCC, SCLC, CORE**: Key civil rights organizations; the Student Nonviolent Coordinating Committee (SNCC), Southern Christian Leadership Conference (SCLC), and the Congress of Racial Equality (CORE) played major roles in the civil rights movement through direct action, voter registration drives, and leadership in key protests.
+
+61. **1968 Chicago Democratic Convention**: Marked by large-scale protests and subsequent police riot, the convention highlighted deep divisions within the Democratic Party and the nation over the Vietnam War and other issues.
+
+62. **Eisenhower Foreign Policy**: Known as the "New Look," it emphasized the use of nuclear weapons and covert action to counter the threat of communism, reducing reliance on conventional military forces.
+
+63. **"Freedom Riders"**: Civil rights activists who rode interstate buses into the segregated southern United States in 1961 to challenge the non-enforcement of United States Supreme Court decisions which ruled that segregated public buses were unconstitutional.
+
+64. **Students for a Democratic Society (SDS)**: A student activist movement in the United States that was one of the main representations of the New Left. The organization developed and expanded rapidly in the mid-1960s before dissolving at its last convention in 1969.
+
+65. **Deterrence**: A defense strategy, particularly during the Cold War, aimed at dissuading adversaries from taking hostile actions, especially nuclear, by the promise of substantial retaliation.
+
+66. **Children's March**: The 1963 protest in Birmingham, Alabama, where over a thousand children were arrested during their peaceful march against segregation, drawing national attention to the civil rights movement.
+
+67. **The New Left**: A term used in various countries to describe activists, educators, agitators, and others in the 1960s and 1970s who sought to implement a broad range of reforms on issues such as civil rights, gay rights, abortion rights, gender roles, and drugs, in contrast to earlier leftist or Marxist movements that had focused on labor unionization and questions of social class.
+
+68. **Massive Retaliation**: A military doctrine and nuclear strategy in which a state commits itself to retaliate in much greater force in the event of an attack.
+
+69. **March on Washington (1963)**: A massive protest in Washington, D.C., where Martin Luther King Jr. delivered his famous "I Have a Dream" speech, advocating racial harmony and economic justice.
+
+70. **Counterculture**: The 1960s counterculture was an anti-establishment cultural phenomenon that developed first in the United Kingdom and the United States and spread throughout much of the Western world between the mid-1960s and the mid-1970s, with London, New York City, and San Francisco being hotbeds of early countercultural activity.
+
+71. **"New Look"**: Eisenhower's national security policy which was a sharp departure from the massive retaliation doctrine of the Truman administration, focusing on maintaining a balance between the demands of the expanding arms race and the nation's economic capabilities.
+
+72. **"I Have a Dream" Speech**: Delivered by Martin Luther King Jr. during the 1963 March on Washington, the speech advocated for racial equality and an end to discrimination.
+
+73. **Woodstock**: A music festival held in 1969 that symbolized the era's counterculture, drawing hundreds of thousands of young people for a weekend of peace, music, and love.
+
+74. **Brinkmanship**: A foreign policy practice in which one or both parties force the interaction between them to the threshold of confrontation in order to gain an advantageous negotiation position over the other.
+
+75. **Civil Rights Act of 1964**: Landmark federal legislation that outlawed discrimination based on race, color, religion, sex, or national origin, particularly in voter registration and employment.
+
+76. **Betty Friedan and the Feminine Mystique**: Published in 1963, this book is credited with sparking the second wave of feminism in the United States by exploring the idea that women could find personal fulfillment outside of their traditional roles.
+
+77. **Sputnik (1957)**: The first artificial Earth satellite, launched by the Soviet Union, initiating the space race between the U.S. and the Soviet Union.
+
+78. **Bay of Pigs Invasion (1961)**: A failed military invasion of Cuba undertaken by the CIA-sponsored paramilitary group Brigade 2506, which was a major embarrassment for U.S. foreign policy.
+
+79. **National Organization for Women (NOW)**: Founded in 1966, NOW aimed to advocate for equal rights for women, particularly for issues including employment, education, and reproductive rights.
+
+80. **NASA**: Established in 1958 as the United States government agency responsible for the nation's civilian space program and for aeronautics and aerospace research.
+
+1. **Vietnamization**: A strategy initiated by President Nixon aimed at ending American involvement in the Vietnam War by transferring all military responsibilities to South Vietnam.
+
+2. **Cambodian Incursion**: Refers to the 1970 U.S. military campaign in Cambodia, ordered by Nixon, intended to disrupt North Vietnamese supply lines but controversial for its expansion of the war area.
+
+3. **Kent State Incident (1970)**: National Guard troops shot and killed four students during a protest against the Vietnam War at Kent State University in Ohio, sparking widespread outrage.
+
+4. **Pentagon Papers**: A classified study of the Vietnam War leaked in 1971 by Daniel Ellsberg, revealing government deception in the conduct of the war and deepening public skepticism about U.S. Vietnam policy.
+
+5. **"Credibility Gap"**: A term used to describe public skepticism about the Johnson and later Nixon Administration's statements and policies on the Vietnam War.
+
+6. **Détente and SALT I**: Détente refers to the easing of Cold War tensions in the 1970s, marked by SALT I (Strategic Arms Limitation Talks), a series of negotiations between the U.S. and Soviet Union which aimed to prevent the manufacture of nuclear arms and reduce the number of ballistic missiles.
+
+7. **Watergate**: A major political scandal that stemmed from a break-in at the Democratic National Committee headquarters at the Watergate office complex in 1972 and Nixon's administration's attempt to cover it up, leading to Nixon's resignation in 1974.
+
+8. **CREEP (Committee to Re-elect the President)**: An organization linked to the Watergate scandal, known for its illicit campaign practices in support of Nixon's re-election.
+
+9. **Nixon's "Southern Strategy"**: An electoral strategy to increase political support among white voters in the South by appealing to racism against African Americans.
+
+10. **Swann v. Charlotte-Mecklenburg (1971)**: A Supreme Court case that upheld the busing of students to promote integration in public schools.
+
+11. **Regents of the University of California v. Bakke (1978)**: A landmark Supreme Court decision that ruled against specific racial quotas but allowed race to be one of several factors in college admission policies.
+
+12. **"Stagflation"**: An economic condition of the 1970s marked by slow economic growth and high unemployment (stagnation) coupled with rising prices (inflation).
+
+13. **Rachel Carson and Silent Spring**: Published in 1962, Carson's book was influential in the environmental movement, highlighting the dangers of pesticides, particularly DDT, to wildlife.
+
+14. **US v. Nixon (1974)**: A Supreme Court case that led to Nixon's resignation, ruling that he must release tape recordings related to the Watergate scandal.
+
+15. **SALT I (Strategic Arms Limitation Talks Agreement)**: Signed in 1972, this agreement between the U.S. and the USSR froze the number of ballistic missile launchers at existing levels and provided for the addition of new submarine-launched ballistic missile launch tubes only after the same number of older intercontinental ballistic missile launchers had been dismantled.
+
+16. **Camp David Accords (1978)**: Peace negotiations between Israel and Egypt mediated by U.S. President Jimmy Carter, leading to a peace treaty between the two countries.
+
+17. **Environmental Protection Agency (EPA)**: Established in 1970 by an executive order by President Nixon to consolidate in one agency a variety of federal research, monitoring, standard-setting, and enforcement activities to ensure environmental protection.
+
+18. **Carter and the Economy**: President Jimmy Carter faced significant economic challenges during his tenure (1977-1981), including high inflation, energy crises, and slow growth.
+
+19. **Iranian Hostage Crisis (1979-1981)**: A diplomatic standoff where 52 American diplomats and citizens were held hostage for 444 days after a group of Iranian students took over the U.S. Embassy in Tehran, dramatically affecting U.S.-Iran relations and U.S. domestic politics.
+
+###Unit 9
+
+1. **Moral Majority**: Founded by Jerry Falwell in 1979, the Moral Majority was a prominent American political organization associated with the Christian right. It played a significant role in mobilizing conservative Christians as a key force in the Republican Party.
+
+2. **Phyllis Schlafly**: A conservative activist best known for her opposition to the women's liberation movement and her successful campaign against the ratification of the Equal Rights Amendment (ERA) in the 1970s.
+
+3. **Reaganomics (Supply-Side Economics/Trickle-Down Theory)**: Economic policies promoted by President Ronald Reagan in the 1980s, which advocated for widespread tax cuts, decreased social spending, increased military spending, and deregulation of domestic markets. These policies were based on the theory that economic benefits provided to businesses and upper income levels will trickle down to everyone in the form of jobs and more wealth.
+
+4. **Jerry Falwell and the Moral Majority**: Jerry Falwell was a televangelist who co-founded the Moral Majority, which helped to galvanize conservative Christians into a significant voting bloc that strongly influenced American politics, focusing on issues such as opposition to abortion, gay rights, and the ERA.
+
+5. **Economic Recovery Tax Act (1981)**: A major federal tax cut designed to stimulate economic growth, passed by Congress during Reagan's first term. It significantly reduced marginal tax rates on both individuals and businesses, aiming to encourage investment, savings, and work effort.
+
+6. **Star Wars (Strategic Defense Initiative, SDI)**: Announced by Reagan in 1983, SDI was an ambitious plan to develop a sophisticated anti-ballistic missile system in order to prevent missile attacks from other countries, particularly the Soviet Union. It was dubbed "Star Wars" by its critics.
+
+7. **Foreign Interventions in Central America**: During the 1980s, the Reagan administration was actively involved in Central America, supporting anti-communist regimes and movements, most notably in Nicaragua and El Salvador. This often involved covert or overt support for military and paramilitary groups.
+
+8. **Mikhail Gorbachev**: The last leader of the Soviet Union, coming into power in 1985. Gorbachev introduced major reforms such as perestroika (restructuring) and glasnost (openness) which led to greater economic liberalization and transparency in government institutions, and ultimately, the reduction of Cold War tensions.
+
+9. **End of the Cold War**: The Cold War gradually ended in the late 1980s and early 1990s, culminating in the fall of the Berlin Wall in 1989, the reunification of Germany in 1990, and the dissolution of the Soviet Union in 1991. Key factors included Gorbachev's reforms, the weakening of communist power in Eastern Europe, and increased diplomatic engagements and negotiations.
 
 
 
