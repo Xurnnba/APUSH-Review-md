@@ -1,4 +1,4 @@
-###Unit 7
+### Unit 7
 1. **Imperialism (Jingoism)**: Expansion of national borders and influence through military force and diplomacy, often driven by nationalist fervor and economic motives.
 2. **Alfred T. Mahan/Influence of Sea Power**: Mahan argued that national greatness and prosperity came from maritime power. His ideas influenced naval strategies and the expansion of the U.S. navy.
 3. **"White Man's Burden"**: A poem by Rudyard Kipling that urged the U.S. to take up the perceived duty of civilizing non-white peoples, used to justify imperialism.
@@ -182,7 +182,7 @@ Continuing from where we left off, let's explore the involvement of the United S
 82. **Hiroshima and Nagasaki (August 1945)**: The U.S. dropped atomic bombs on these Japanese cities, leading to Japan's unconditional surrender and the end of World War II.
 
 
-###Unit 8
+### Unit 8
 1. **Baby Boom**: Post-WWII period marked by a significant increase in birth rates in the United States, lasting from 1946 to 1964.
 2. **Post WWII Consumerism**: A period of economic prosperity and high consumer spending following World War II, characterized by the widespread purchase of homes, cars, and appliances.
 3. **Job Corps**: Established as part of the Economic Opportunity Act of 1964 to help young people, ages 16-24, acquire the skills needed for employment.
@@ -343,7 +343,7 @@ Continuing from where we left off, let's explore the involvement of the United S
 
 19. **Iranian Hostage Crisis (1979-1981)**: A diplomatic standoff where 52 American diplomats and citizens were held hostage for 444 days after a group of Iranian students took over the U.S. Embassy in Tehran, dramatically affecting U.S.-Iran relations and U.S. domestic politics.
 
-###Unit 9
+### Unit 9
 
 1. **Moral Majority**: Founded by Jerry Falwell in 1979, the Moral Majority was a prominent American political organization associated with the Christian right. It played a significant role in mobilizing conservative Christians as a key force in the Republican Party.
 
