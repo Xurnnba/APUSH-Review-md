@@ -363,5 +363,279 @@ Continuing from where we left off, let's explore the involvement of the United S
 
 9. **End of the Cold War**: The Cold War gradually ended in the late 1980s and early 1990s, culminating in the fall of the Berlin Wall in 1989, the reunification of Germany in 1990, and the dissolution of the Soviet Union in 1991. Key factors included Gorbachev's reforms, the weakening of communist power in Eastern Europe, and increased diplomatic engagements and negotiations.
 
+### Period 5: Expansion, Civil War, Reconstruction (1844-1877)
+
+- **John O'Sullivan/Manifest Destiny**: Coined the term "Manifest Destiny," the belief that the U.S. was destined to expand across North America.
+
+- **Oregon Trail/"54 40 or Fight"**: The Oregon Trail was a major route west for settlers. "54 40 or Fight" referred to the northern limit of the disputed Oregon Territory.
+
+- **How Oregon dispute settled**: The Oregon Treaty of 1846 set the U.S.-Canada boundary at the 49th parallel.
+
+- **Texas Revolution/Annexation**: Texas won independence from Mexico in 1836 and was annexed by the U.S. in 1845.
+
+- **Why’d Americans settle in Texas?**: Attracted by vast lands suitable for cotton farming and cattle ranching.
+
+- **"Remember the Alamo"**: Battle cry commemorating the Texan loss at the Alamo during the Texas Revolution.
+
+- **Lone Star Republic**: Nickname for Texas when it was an independent nation from 1836 to 1845.
+
+- **James K. Polk/"Dark Horse"**: Nicknamed the "Dark Horse" president, Polk was known for his expansionist policies.
+
+- **Tariff Reduction**: Polk reduced tariffs as part of his presidential agenda to stimulate trade.
+
+- **Independent Treasury**: System established by Polk to manage government funds without the involvement of private banks.
+
+- **Oregon, California/New Mexico**: Areas acquired through negotiations and war, expanding U.S. territory westward.
+
+- **Mexican-American War (1846-1848)**: War between the U.S. and Mexico, resulting in significant land gains for the U.S.
+
+- **Slidell’s rejection**: Mexican rejection of U.S. envoy John Slidell, who sought to purchase disputed territories and settle Texas borders.
+
+- **Civil Disobedience**: Henry David Thoreau's concept advocating nonviolent resistance to unjust laws.
+
+- **Lincoln’s Spot Resolutions**: Abraham Lincoln’s demand for President Polk to specify the exact location ("spot") where Mexicans had allegedly shed American blood on American soil.
+
+- **Treaty of Guadalupe Hidalgo – effects**: 1848 treaty ending the Mexican-American War; ceded vast territories including California and New Mexico to the U.S.
+
+- **Wilmot Proviso**: Proposal to outlaw slavery in any territory acquired from Mexico; it was never passed.
+
+- **Popular Sovereignty**: Doctrine that the settlers of a federal territory should decide the slavery issue themselves.
+
+- **Free-Soil Coalition (Free-Soil Party)**: Political party focused on stopping the expansion of slavery into western territories.
+
+- **California Gold Rush/Forty-Niners**: Mass migration to California following gold discoveries in 1848.
+
+- **Effect on statehood**: The Gold Rush increased California's population rapidly, leading it to skip territorial status and become a state in 1850.
+
+- **Compromise of 1850 (PopFACT)**: Series of laws passed to balance slave and free states, including admitting California as a free state and enacting a stricter Fugitive Slave Act.
+
+- **Fugitive Slave Act**: Part of the Compromise of 1850, it required the return of escaped slaves to their owners.
+
+- **Uncle Tom’s Cabin/Harriet Beecher Stowe**: Influential 1852 novel depicting the harsh realities of slavery, stirring strong anti-slavery sentiments.
+
+- **Gadsden Purchase**: 1853 purchase of land from Mexico to facilitate a southern transcontinental railroad.
+
+- **Kansas-Nebraska Act**: 1854 law that allowed residents of Kansas and Nebraska to decide the slavery issue by popular sovereignty, leading to "Bleeding Kansas."
+
+- **Formation of Republican Party**: Formed in 1854, uniting against the spread of slavery into the western territories.
+
+- **"Bleeding Kansas"**: Violent clashes in Kansas between pro-slavery and anti-slavery settlers.
+
+- **Lecompton Constitution**: Pro-slavery constitution proposed for Kansas, rejected by Congress.
+
+- **John Brown**: Abolitionist who led anti-slavery violence in Kansas and the 1859 raid on Harpers Ferry.
+
+- **Pottawatomie Massacre**: 1856 incident where John Brown and his followers killed five pro-slavery settlers in Kansas.
+
+- **Harper’s Ferry**: John Brown's 1859 attempt to start a slave rebellion by seizing the U.S. arsenal at Harpers Ferry, Virginia.
+
+- **Brooks-Sumner Incident**: 1856 event where Congressman Preston Brooks assaulted Senator Charles Sumner in the Senate chamber over a speech on slavery.
+
+- **Republican Platform**: Based on opposition to the expansion of slavery into the territories.
+
+- **Democratic Platform**: Varied by region
+
+, generally supported popular sovereignty regarding slavery.
+
+- **Dred Scott Decision**: 1857 Supreme Court ruling stating that African Americans were not citizens and Congress could not ban slavery in the territories.
+
+- **Lincoln Douglas Debates**: Series of 1858 debates focusing on the issue of slavery between Stephen Douglas and Abraham Lincoln.
+
+- **Freeport Doctrine**: Stephen Douglas’s belief that a territory could exclude slavery by refusing to adopt laws supporting it.
+
+- **House Divided Speech**: Speech by Lincoln suggesting that the U.S. could not endure permanently half slave and half free.
+
+- **Civil War 1861-1865**: Conflict between Northern states (Union) and Southern seceding states (Confederacy) primarily over slavery and states' rights.
+
+- **Strengths/Weaknesses of North/South**: The North had more industrial resources and a larger population; the South had experienced military officers and was fighting a defensive war.
+
+- **Anaconda Plan**: Northern strategy to blockade Southern ports and control the Mississippi River, effectively "squeezing" the South.
+
+- **Conscription**: Both the North and South instituted drafts to meet the demand for soldiers.
+
+- **Positives/negatives in North and South**: North faced economic boom but also draft riots; South had initial military successes but suffered from blockades and resource shortages.
+
+- **Antietam/Emancipation Proclamation**: The 1862 Battle of Antietam was the bloodiest single-day battle in American history, leading Lincoln to issue the Emancipation Proclamation, freeing slaves in the Confederacy.
+
+- **Reason(s) for Emancipation**: To weaken the Confederate war effort, moral grounds, and to prevent European support for the Confederacy.
+
+- **Social/Econ/Political Effects of War**: Transformation of the U.S. economy, increase in federal government power, and significant social changes, including the abolition of slavery.
+
+- **Role of African Americans**: Many fought for the Union, significantly impacting the war's outcome and their own future.
+
+- **Role of women**: Took on roles in factories, nursing, and other fields traditionally held by men due to the war.
+
+- **Financing the war**: Primarily through taxes, bonds, and printing money.
+
+- **Suspending Habeas Corpus**: Lincoln suspended habeas corpus during the war to deal with dissent and maintain public order.
+
+- **Battle of Gettysburg/Gettysburg Address**: 1863 battle, a turning point in the war won by the North. Lincoln's address later consecrated the battlefield and redefined the war's purpose.
+
+- **Sherman’s March/Total War**: 1864 military campaign by Union General Sherman employing total war tactics, devastating the South economically and psychologically.
+
+- **Appomattox Courthouse**: Site of Confederate General Lee’s surrender to Union General Grant in 1865, effectively ending the Civil War.
+
+- **Reconstruction: 1863-1877**: The period after the Civil War focused on reintegrating Southern states and rebuilding the South.
+
+- **13th Amendment**: Abolished slavery throughout the United States.
+
+- **The Freedman’s Bureau**: Government agency established to aid freed slaves during Reconstruction.
+
+- **Proclamation of Amnesty (10% Plan)**: Lincoln’s plan for Reconstruction, allowing Southern states to rejoin the Union if 10% of their voters swore an oath of loyalty.
+
+- **Radical Republicans/Wade Davis Bill**: Group in Congress advocating harsh penalties for the South; their Wade Davis Bill proposed more stringent terms for reconstruction than Lincoln’s plan.
+
+- **Black Codes**: Laws passed by Southern states restricting the rights of newly freed black slaves.
+
+- **Civil Rights Act/14th Amendment**: 1866 act providing African Americans with the same legal rights as white Americans; the 14th Amendment granted citizenship to all persons born or naturalized in the U.S.
+
+- **Reconstruction Acts of 1867 (Military Recon)**: Divided the South into military districts to enforce laws and protect freedmen.
+
+- **15th Amendment**: Granted African American men the right to vote.
+
+- **First African American Congressmen**: Elected during Reconstruction, these men represented the progress and challenges of the era.
+
+- **Sharecropping**: System where freedmen and poor whites farmed land owned by others in exchange for a share of the crops, often leading to debt and economic dependency.
+
+- **Carpetbaggers and Scalawags**: Derogatory terms for Northerners who moved South during Reconstruction and Southern whites who supported Reconstruction, respectively.
+
+- **KKK**: White supremacist group formed during Reconstruction; used violence and intimidation to oppose the rights of African Americans.
+
+- **Success vs. failure of Reconstruction**: Achieved some advances in civil rights but ultimately failed to fundamentally alter the social and economic structure of the South.
+
+- **Compromise of 1877**: Resolved the 1876 presidential election, ended Reconstruction by withdrawing federal troops from the South.
+
+- **Hayes/Tilden**: Rutherford B. Hayes (
+
+Republican) and Samuel J. Tilden (Democrat) were the candidates in the disputed 1876 election.
+
+- **“Waving the Bloody Shirt”**: Political strategy of reviving gory memories of the Civil War to gain support.
+
+- **“Home rule”**: Term used to describe the Southern states’ local governance after the end of Reconstruction.
+
+### Period 6: The Gilded Age
+
+- **Plessy v. Ferguson**: 1896 Supreme Court decision that upheld the constitutionality of racial segregation under the "separate but equal" doctrine.
+
+- **Booker T. Washington**: African American educator and leader who advocated for vocational education and racial uplift through self-help, believing in accommodation to white society.
+
+- **W.E.B. DuBois**: African American scholar and activist who co-founded the NAACP and advocated for civil rights and higher education for African Americans, opposing Booker T. Washington's approach.
+
+- **Treaty of Fort Laramie**: 1868 treaty in which the U.S. promised Native American tribes control of the Great Plains, but the promises were repeatedly broken, leading to further conflicts.
+
+- **Native American Wars (overall significance)**: Series of conflicts and negotiations between the U.S. government and Native American tribes as Americans expanded westward, resulting in significant loss of life and land for Native Americans.
+
+- **Sand Creek**: Site of an 1864 massacre in Colorado where U.S. troops killed over 150 Cheyenne and Arapaho, mostly women and children.
+
+- **Red River War**: Series of military engagements (1874-1875) aimed at removing Native American tribes from the Southern Plains and opening the area for American settlers and railroads.
+
+- **Little Bighorn**: 1876 battle in Montana where the Sioux and Cheyenne defeated Custer’s Seventh Cavalry, known as Custer's Last Stand.
+
+- **Ghost Dance/Battle of Wounded Knee**: The Ghost Dance was a spiritual movement among Native Americans that the U.S. government sought to suppress, leading to the 1890 massacre at Wounded Knee where over 150 Lakota were killed.
+
+- **Helen Hunt Jackson/Century of Dishonor**: Author who documented the injustices done to Native Americans in her 1881 book, *Century of Dishonor*, which influenced public opinion towards Native American rights.
+
+- **Dawes Severalty Act**: 1887 law that aimed to assimilate Native Americans by dividing tribal lands into individual plots; only those who accepted the plots were allowed U.S. citizenship.
+
+- **Homestead Act**: 1862 law that provided free land in the West to anyone willing to settle there and develop it for five years.
+
+- **Frederick Jackson Turner/Turner Thesis**: Historian who argued in 1893 that the American frontier was the key factor in developing American democracy and characteristics.
+
+- **Transcontinental Railroad 1869**: Completed in 1869, this railroad linked the eastern U.S. rail network with California, facilitating trade, travel, and the settlement of the West.
+
+- **Positive and negative effects**: Positively, the railroad stimulated economic growth and development across sectors. Negatively, it led to exploitation of workers and native lands, environmental damage, and monopolistic business practices.
+
+- **Captains of Industry vs. Robber Barons**: Terms used to describe industrial leaders of the time. "Captains of industry" suggests they helped build the economy, while "robber barons" suggests they exploited workers and consumers.
+
+- **John D. Rockefeller (oil)**: Founder of Standard Oil Company, used horizontal integration to monopolize the oil industry.
+
+- **Vertical Integration and Horizontal Consolidation**: Strategies used by industrialists to control the entire supply chain or consolidate control over all competitors, respectively.
+
+- **Trusts**: Legal entities that conglomerates used to manage their subsidiaries without owning them directly, facilitating monopolies.
+
+- **Interlocking Directorates**: Practice where the same individuals serve on the boards of multiple companies, which was used to control entire industries.
+
+- **Andrew Carnegie (steel)**: Led the expansion of the American steel industry, used vertical integration by controlling every stage of steel production.
+
+- **Bessemer process**: A steel-making process that resulted in faster, cheaper steel production, pivotal for construction and manufacturing.
+
+- **Business practices**: Often involved ruthless tactics, monopolistic control, and exploitation of labor.
+
+- **Gospel of Wealth**: Essay by Andrew Carnegie that argued the rich have a duty to use their wealth for the benefit of society.
+
+- **National Labor Union**: Founded in 1866, it aimed to organize workers across different trades to advocate for labor reforms.
+
+- **Knights of Labor**: Organized in 1869, this labor union was open to all workers and focused on broad social reforms.
+
+- **"8 hours for work, 8 hours for rest, 8 hours for what we will"**: Labor slogan advocating for shorter workdays.
+
+- **Terrence Powderly**: Leader of the Knights of Labor who advocated for worker’s rights and social reforms.
+
+- **Sam Gompers**: Founded the American Federation of Labor (AFL) in 1886, focusing on practical issues like wages, hours, and working conditions.
+
+- **
+
+Haymarket Affair**: 1886 labor protest in Chicago that turned violent, discrediting the labor movement due to its association with anarchism.
+
+- **AFL (American Federation of Labor)**: Labor organization that focused on skilled workers and practical objectives like better wages, hours, and conditions.
+
+- **Homestead Strike**: 1892 strike at Carnegie Steel that ended in a battle between strikers and private security, weakening the union.
+
+- **Pinkerton Guards**: Private security guards often hired by business owners to break strikes and intimidate workers.
+
+- **Pullman Strike**: Nationwide railroad strike in 1894 that was crushed by federal troops, highlighting the government's role in labor disputes.
+
+- **Sherman Antitrust Act**: 1890 law intended to prohibit business practices that were deemed anti-competitive, and to regulate monopolies.
+
+- **Eugene V. Debs**: Labor leader who helped organize the Pullman Strike and later became a prominent socialist in America.
+
+- **IWW/the Wobblies**: Industrial Workers of the World, founded in 1905, aimed for worker solidarity and radical labor reforms.
+
+- **Munn v. Illinois/Wabash v. Illinois**: Supreme Court cases that debated state versus federal authority to regulate business, leading to significant legal precedents in regulatory law.
+
+- **Interstate Commerce Act**: 1887 law passed to regulate railroad rates and practices, the first federal law to regulate private industry.
+
+- **Interstate Commerce Committee**: Established to oversee and enforce the Interstate Commerce Act.
+
+- **Urbanization**: The rapid growth of cities, driven by industrialization and migration, both internal and from abroad.
+
+- **Tenements (“dumbbell tenements”)**: Poorly built, overcrowded housing where many immigrants lived.
+
+- **Political Machines**: Organizations that controlled political appointments and government decisions in cities; often corrupt.
+
+- **Boss Tweed/Tammany Hall**: Famous political machine leader in New York City, known for corruption.
+
+- **“New Immigrants” and “Old Immigrants”**: Terms distinguishing earlier waves of immigrants from Western and Northern Europe ("Old") from later ones from Southern and Eastern Europe ("New").
+
+- **Nativism and the American Protective Association**: Movements that opposed immigrants, especially those not from Western Europe, often on racial or religious grounds.
+
+- **Ethnic Neighborhoods**: Areas in cities where immigrants from specific regions lived and maintained their cultural identities.
+
+- **Chinese Exclusion Act**: 1882 law that banned Chinese immigration, reflecting the racial and economic tensions of the era.
+
+- **Social Darwinism**: The belief that Darwin’s theory of natural selection justified the economic and social disparities, suggesting that wealth was a sign of fitness and poverty a sign of unfitness.
+
+- **Horatio Alger: Rags to Riches**: Popular novels that promoted the idea that anyone could achieve significant success through hard work.
+
+- **The Social Gospel**: Movement among Protestant Christians to apply Christian ethics to social problems, particularly issues of social justice such as economic inequality and poverty.
+
+- **Jane Addams/Hull House**: Pioneer in the settlement house movement, founded Hull House in Chicago to help immigrants assimilate.
+
+- **The Grange/Farmers’ Alliance**: Organizations that represented the interests of farmers against the railroads and middlemen, eventually leading to the creation of the Populist Party.
+
+- **Populist Party (People’s Party)**: Political party that emerged from the Farmers' Alliance, advocating for wide-ranging economic and political reforms.
+
+- **Free Silver**: Movement advocating for the free coinage of silver to increase the money supply and aid debt-ridden farmers.
+
+- **Panic of 1893**: A severe economic depression triggered by railroad overbuilding and shaky railroad financing, leading to widespread business failures.
+
+- **Jacob Coxey**: Activist who led a protest march to Washington, D.C., in 1894, during the Panic of 1893, to demand the government create jobs for the unemployed.
+
+- **William Jennings Bryan/Election of 1896**: Democratic candidate known for his "Cross of Gold" speech that supported free silver; lost the pivotal 1896 election to Republican William McKinley.
+
+- **Cross of Gold Speech**: Famous speech by William Jennings Bryan advocating for bimetallism and criticizing the gold standard, aiming to win support from debt-laden farmers.
+
+- **Civil Service/Pendleton Act**: Reform measures that established the principle that federal employment should be awarded based on merit rather than political affiliation.
+
 
 
